@@ -22,8 +22,6 @@ async function poll () {
             }
         })
     }
-
-   
 }
 
 poll()
